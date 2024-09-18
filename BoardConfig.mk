@@ -225,3 +225,4 @@ include vendor/xiaomi/mojito-leicacamera/BoardConfigVendor.mk
 
 # camera
 MALLOC_SVELTE := true
+MALLOC_SVELTE_FOR_LIBC32 := true
