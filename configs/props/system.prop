@@ -28,3 +28,6 @@ telephony.lteOnCdmaDevice=1
 
 # WiFi
 wifi.interface=wlan0
+
+# Camera
+persist.sys.cam.skip_detach_image=true
