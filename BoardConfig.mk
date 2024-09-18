@@ -222,3 +222,6 @@ WPA_SUPPLICANT_VERSION := VER_0_8_X
 
 # Inherit from proprietary files for Leica Camera
 include vendor/xiaomi/mojito-leicacamera/BoardConfigVendor.mk
+
+# camera
+MALLOC_SVELTE := true
