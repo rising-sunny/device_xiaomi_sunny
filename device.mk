@@ -554,3 +554,6 @@ $(call inherit-product, packages/apps/ViPER4AndroidFX/config.mk)
 
 # BCR
 $(call inherit-product, vendor/bcr/bcr.mk)
+
+# Miui-apps
+$(call inherit-product, vendor/xiaomi/miuiapps/config.mk)
